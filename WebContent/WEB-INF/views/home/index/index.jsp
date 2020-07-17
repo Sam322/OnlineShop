@@ -16,22 +16,29 @@
                       </div>
                       <div id="xifan_bd1lfimg" style="width:780px;height:350px;">
                         <div >
+                        
+                        <dl class="" style="width:780px;height:350px;"></dl>
+                          
                           <dl class="" style="width:780px;height:350px;">
-                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/红楼梦.jpg"></a></dt>
-                            <dd><h2><a href="" target="_blank">红楼梦</a></h2></dd>
-                          </dl>
-                          <dl class="" style="width:780px;height:350px;">
-                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/三国演义.jpg"></a></dt>
+                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/1.jpg"></a></dt>
                             <dd><h2><a href="" target="_blank">三国演义</a></h2></dd>
                           </dl>
+                          
                           <dl class="" style="width:780px;height:350px;">
-                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/水浒传.jpg"></a></dt>
+                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/1.jpg"></a></dt>
                             <dd><h2><a href="" target="_blank">水浒传</a></h2></dd>
                           </dl>
+                          
                           <dl class="" style="width:780px;height:350px;">
-                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/西游记.jpg"></a></dt>
+                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/1.jpg"></a></dt>
                             <dd><h2><a href="" target="_blank">西游记</a></h2></dd>
                           </dl>
+                          
+                          <dl class="" style="width:780px;height:350px;">
+                            <dt><a href="" title="" target="_blank"><img width="780px" height="360px" src="../resources/home/images/1.jpg"></a></dt>
+                            <dd><h2><a href="" target="_blank">红楼梦</a></h2></dd>
+                          </dl>
+                          
                         </div>
                       </div>
                     </div>
